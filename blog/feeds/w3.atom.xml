@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w3</title><link href="./" rel="alternate"></link><link href="./feeds/w3.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:38:45+08:00</updated><entry><title>課程w3</title><link href="./40923149_2024-Spring-40923149w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T12:00:00+08:00</published><updated>2024-05-12T16:38:43+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-14:./40923149_2024-Spring-40923149w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+w3學習在Replit維護分組倉儲,use LaTex.&lt;/p&gt;
+
+
+&lt;h1&gt;W3&lt;/h1&gt;
+&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
+&lt;p&gt;學習在Replit維護分組倉儲&lt;/p&gt;
+&lt;p&gt;分配各組員製作英翻中報告的部分&lt;/p&gt;
+&lt;p&gt;下載並學習使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W3</title><link href="./40923150_2024-Spring-w3-blog.html" rel="alternate"></link><published>2024-03-12T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-12:./40923150_2024-Spring-w3-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+
+
+&lt;h1&gt;W3&lt;/h1&gt;
+&lt;p&gt;1.建立分組倉儲&lt;/p&gt;
+&lt;p&gt;2.在倉儲新增個人子模組&lt;/p&gt;
+&lt;p&gt;3.學習使用codespaces維護分組網站&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W3</title><link href="./40923152_2024-Spring-w3-blog.html" rel="alternate"></link><published>2024-03-10T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40923152</name></author><id>tag:None,2024-03-10:./40923152_2024-Spring-w3-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
+
+
+&lt;h1&gt;WEEK3&lt;/h1&gt;
+&lt;p&gt;一.組員們間討論 論文中翻英每個人所負責的部份&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123250 2024 Spring 課程 第3週 週記</title><link href="./41123250-2024-spring-ke-cheng-di-3zhou-zhou-ji.html" rel="alternate"></link><published>2024-03-07T15:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-03-07:./41123250-2024-spring-ke-cheng-di-3zhou-zhou-ji.html</id><summary type="html">&lt;p&gt;在各組倉儲內建立個人倉儲&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;在各組倉儲內建立個人倉儲&lt;/p&gt;
+
+
+&lt;h1&gt;內容管理系統&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在各組倉儲內建立個人倉儲&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3 github倉儲維護</title><link href="./40971219_2024-Spring-40971219-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T14:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-07:./40971219_2024-Spring-40971219-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同產品設計實習課程期中報告方式&lt;/p&gt;
+
+
+&lt;h1&gt;w3 github倉儲維護方式&lt;/h1&gt;
+&lt;p&gt;繼上週的以codespaces維護外，還有以gitpod的方式維護，因為codespaces每月有固定使用量，若使用完畢則須要有其他方式維護&lt;/p&gt;
+&lt;h1&gt;w3 Latex學習與編譯&lt;/h1&gt;
+&lt;p&gt;利用老師給的latex範本，進行latex的編譯方式學習。&lt;/p&gt;
+&lt;p&gt;在下載的可攜套件中，需要在啟動路徑上，加入編譯latex的指令，使得能夠利用可攜進行latex的編譯&lt;/p&gt;</content><category term="w3"></category><category term="latex"></category></entry><entry><title>41123243-w3-2024 Spring 課程 第三週 週記</title><link href="./41123243_41123243-w3-blog.html" rel="alternate"></link><published>2024-03-07T13:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123243_41123243-w3-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+
+
+&lt;h1&gt;第三週執行事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在小組倉儲加入個人倉儲&lt;/li&gt;
+&lt;/ul&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123249-w3 2024 Spring 課程網誌</title><link href="./41123249_41123249-w3.html" rel="alternate"></link><published>2024-03-07T13:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./41123249_41123249-w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+
+
+&lt;h1&gt;第三週網誌&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在小組倉儲加入個人倉儲的子模組&lt;/li&gt;
+&lt;/ul&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123251-w3-2024 Spring 課程 第三週 週記</title><link href="./41123251_41123251-w3-blog.html" rel="alternate"></link><published>2024-03-07T13:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>41123251</name></author><id>tag:None,2024-03-07:./41123251_41123251-w3-blog.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第三週，在小組加入個人倉儲&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第三週，在小組加入個人倉儲&lt;/p&gt;
+
+
+&lt;h1&gt;第三週執行事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在小組倉儲加入個人倉儲&lt;/li&gt;
+&lt;/ul&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>40971134_W3維護分組倉儲</title><link href="./40971134_2024-Spring-40971134-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-07:./40971134_2024-Spring-40971134-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;W3 期中報告方式&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W3 期中報告方式&lt;/p&gt;
+
+
+&lt;h1&gt;W3&lt;/h1&gt;
+&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
+&lt;p&gt;學習在Replit維護分組倉儲&lt;/p&gt;
+&lt;p&gt;分配各組員製作英翻中報告的部分&lt;/p&gt;
+&lt;p&gt;下載並學習使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3</title><link href="./40971220_2024-Spring-40971220-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-07:./40971220_2024-Spring-40971220-w3-blog-tutorial.html</id><content type="html">&lt;p&gt;使用Latex來與小組成員協同翻譯英文報告。分配段落&lt;/p&gt;
+</content><category term="w3"></category><category term="分配Latex翻譯段落"></category></entry><entry><title>41123229-w3-2024 Spring 課程 第三週 週記</title><link href="./41123229_w3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>41123229</name></author><id>tag:None,2024-03-07:./41123229_w3.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+
+
+&lt;h1&gt;第三週執行事項&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;在小組倉儲加入個人倉儲&lt;/li&gt;
+&lt;/ul&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>41123241-W3 2024 Spring 課程</title><link href="./41123241_41123241-W3.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>41123241</name></author><id>tag:None,2024-03-07:./41123241_41123241-W3.html</id><summary type="html">&lt;p&gt;將組員倉儲加入小組倉儲及將小組倉儲加入Replit&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;將組員倉儲加入小組倉儲及將小組倉儲加入Replit&lt;/p&gt;
+
+
+&lt;h1&gt;將組員倉儲加入小組倉儲及將小組倉儲加入Replit&lt;/h1&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>W3網誌</title><link href="./40923140_2024-Spring-w3-blog.html" rel="alternate"></link><published>2024-03-07T09:00:00+08:00</published><updated>2024-05-12T16:38:43+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-03-07:./40923140_2024-Spring-w3-blog.html</id><summary type="html">&lt;p&gt;分配小組作業&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;分配小組作業&lt;/p&gt;
+
+
+&lt;h1&gt;w3&lt;/h1&gt;
+&lt;p&gt;分配小組每人負責的論文中文及英文以及學習如何使用LaTeX製作報告&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>

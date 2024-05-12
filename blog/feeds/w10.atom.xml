@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:38:44+08:00</updated><entry><title>40971134_W10實習課程任務</title><link href="./40971134_2024-Spring-40971134-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-04-25:./40971134_2024-Spring-40971134-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;W10 實習操作&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W10 實習操作&lt;/p&gt;
+
+
+&lt;h1&gt;W10&lt;/h1&gt;
+&lt;p&gt;實習課程任務過程影片&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GdioMHVj1eY?si=IHYkj8yTLwTPeQSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;任務一 建立各班學員的倉儲、網站與分組連結&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://40971134.github.io/cd2024/content/Brython.html"&gt;2b各學員相關網站&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;任務二 鋼球平衡台 PID 控制與模擬&lt;/h2&gt;
+&lt;h3&gt;論文一 : Construction and theoretical study&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文描述了控制理論和其應用在操作動態系統中的重要性，特別是在補償固有不穩定或半穩定系統中受到的干擾和外部作用的情況。論文透過物理構建一個平台來展示理論，並將實體平台的結果與計算機模擬結果進行比較。研究重點在於探討當使用比例-積分-微分（PID）控制器來平衡一個球在平台上時，穩定一個本質上不穩定或半穩定系統的限制，以及這些限制如何與理論預期不同。&lt;/p&gt;
+&lt;p&gt;結論:部分指出，實驗平台能夠在設定的系統要求下達到令人滿意的表現，尤其是在穩定時間方面，但靜態誤差未能達到理想狀態。論文也討論了理論模擬和實驗結果之間的差異，主要是由於實體模型的物理特性和電子元件的非理想表現造成的。此外，論文探討了在穩定自然不穩定或半穩定系統時的性能限制，並指出這些限制主要來自於系統調整的敏捷性、控制器設計的規格限制，以及輸入數據採集的精確度和速度。&lt;/p&gt;
+&lt;h3&gt;論文二 : A real time control system for balancing a ball on a platform with FPGA parallel implementation&lt;/h3&gt;
+&lt;p&gt;摘要:本篇論文提出了一種新的基於PID調節器的解決方案，用於實時提高在平台上調節球的位置的精確性。開發了一個平衡球的傳遞函數，並合成了一個PID調節器，該調節器在FPGA上實現了並行計算。通過自然模擬驗證了提高調節精度的效果。&lt;/p&gt;
+&lt;p&gt;結論:在結論部分，文章提出了一種新的科學實踐方法來提高實時調節球在平台上位置的效率。這種方法使用了在FPGA上實現的PID調節器及其計算單元。開發了兩個在一個FPGA芯片上的並行PID控制器，用於獨立控制一個對象的兩個參數。確保了控制物體的PID控制器輪廓計算的並行處理，並規範了調節器的輸出。通過自然模擬證實了提高在平台上調節球的位置的精確度。所設計的控制器可用於實時控制具有多個控制參數的高速物體。&lt;/p&gt;
+&lt;h3&gt;論文三 : Simulation_and_Experimental_Study_of_Ball_Position&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文提到，研究了在雙軸平台上控制球的位置的各種控制技術。該研究提供了三種控制結構的詳細設計和比較，用於自動穩定球在平板上的位置和跟踪球的軌跡，具體為PD控制器、狀態空間回饋和帶狀態空間觀察器的狀態空間回饋。所有這些方法都設計出來並進行了實際比較。所有結構的共同特點是計算控制器參數的方法。本文還包括了由牛頓方法推導出的球在板數學模型和直流電機位置回路控制。&lt;/p&gt;
+&lt;p&gt;結論:結論部分指出，已開發的控制策略能夠穩定一個在平板上的球。基本系統在開環情況下是不穩定的。在應用線性化策略後，系統表現出穩定的行為。系統的線性化在非常狹窄的操作範圍內是有效的。所提出的系統能夠滿足既定的兩個目標。控制器能夠將球追踪到參考軌跡點。&lt;/p&gt;
+&lt;h3&gt;論文四 : Design and Implementation a Ball Balancing System for Control Theory Course&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文的摘要中提到，該項目的主要目的是開發一個球平衡系統，利用微控制器和相關控制算法來調節橫梁的角度，以實時感應反饋保持球的平衡。透過閉環實時控制系統和良好調整的參數，系統將調節橫梁的角度，以最小化錯誤，即球的實際位置與預期/設定位置之間的距離。在此過程中，製作了三個原型，特別是在合理性和成本方面進行了比較。&lt;/p&gt;
+&lt;p&gt;結論:球平衡系統是一個低成本的項目，旨在作為教學控制理論應用的教育工具，因為實驗涉及到經典控制系統的所有代表性組件。這項工作使學生能夠應用所學知識來執行基於傳感器和微控制器的控制平台，這與閉環反饋理論相關。總體而言，球在梁上的系統有效地開發和演示了相關的反饋控制算法。&lt;/p&gt;
+&lt;h3&gt;論文五 : Ball_on_the_plate_balancing_control_system&lt;/h3&gt;
+&lt;p&gt;摘要:本篇論文介紹了一個關於在平板上平衡球的控制系統的研究。這項研究涵蓋了機械設計和控制算法的開發，目的是在聖彼得堡電技大學“LETI”的自動控制系統部門設計和組裝一個實驗平台。該平台裝備了電阻式觸摸屏以獲取球的位置數據、帶有位置傳感器的步進電機來反饋平台傾斜角度的數據，以及基於AVR微控制器的兩回路從屬控制系統，使用PID控制器來維持球的位置。&lt;/p&gt;
+&lt;p&gt;結論:這篇論文描述了一個球平衡實驗平台的設計。所設計的對象可以用於測試穩定性和平衡控制算法，這些算法對於海洋船舶和航空器等應用至關重要。基於微控制器的控制系統追踪電阻式觸摸屏上的球的位置並計算位置誤差，即球相對於電阻玻璃中心點的坐標位移。帶位置傳感器的步進電機允許控制系統改變帶電阻玻璃的平台的傾斜角度，以在桌面上移動球。微控制器的兩回路從屬控制系統與各種PID控制器一起，能夠將球維持在電阻面板的中心點。所獲得的結果很重要，因為它使用步進電機代替了通常的伺服電機，且不需要外部電腦來執行常用的計算機視覺系統。相反，所描述的實驗平台可以直接從用戶的電腦進行編程，因為它具有基於微控制器的控制系統。未來計劃改進球位置反饋信號的過濾，以提高自動控制系統的速度和質量。此外，所描述的問題可以轉化為更複雜的三角機器人控制，這可以用於從打印和銑削到裝配線的許多工業自動化領域。&lt;/p&gt;
+&lt;h3&gt;論文六 : 2D Ball Balancer Control using QUARC&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文的摘要描述了使用QUARC系統控制二維球平衡器的研究。本研究針對實現在平衡板上穩定球的位置，設計了基於比例-積分-微分（PID）控制器的控制系統。論文涵蓋了從基礎建模到控制器設計的多個階段，並在實驗室設定中使用Quanser 2DBB裝置評估控制策略的表現。&lt;/p&gt;
+&lt;p&gt;結論:研究結果表明，設計的控制系統能夠成功實現對球位置的精確調節。通過對比例速度（PV）補償器和PID補償器的設計，可以滿足特定的時域響應規範，同時也探索了設置點權重和積分器抗飽和等控制技術。此外，實驗結果顯示，控制系統在無執行器飽和的情況下，能夠滿足所有預定的性能規格。未來的工作將集中在提高球位置反饋信號的過濾質量上，以進一步提升自動控制系統的速度和效率。&lt;/p&gt;
+&lt;h2&gt;利用Python模組將系統控制過程，鋼球在平衡台上的x方向座標與y方向，並利用matplotlib畫出來&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1.開啟可攜程式系統中的 CoppeliaSim&lt;/li&gt;
+&lt;li&gt;2.開啟鋼球平衡台模擬場景&lt;/li&gt;
+&lt;li&gt;3.啟動可攜程式系統，pip install keyboard cbor pyzmq matplotlib&lt;/li&gt;
+&lt;li&gt;4.在SciTE中執行上列程式，確定系統穩定後，按下Q終止模擬&lt;/li&gt;
+&lt;li&gt;5.matplotlib將畫出鋼球在平台上的x與y座標圖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://github.com/40971134/cd2024/blob/main/images/x%E8%88%87y%E5%BA%A7%E6%A8%99%E5%9C%96.png"&gt;x與y座標圖&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;任務三 鋼球平衡台零組件繪圖&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://1drv.ms/f/c/9683d19a89b0dec7/EjI6ycO981pAipjT2WW9rtIB_8TYSYhfvFjevqW6iaPzOw?e=z20w5E"&gt;零組件圖檔&lt;/a&gt;&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>41123241-W10 2024 Spring 課程</title><link href="./41123241_41123241-w10.html" rel="alternate"></link><published>2024-04-25T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>41123241</name></author><id>tag:None,2024-04-25:./41123241_41123241-w10.html</id><summary type="html">&lt;p&gt;解決無法更新網誌問題&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;解決無法更新網誌問題&lt;/p&gt;
+
+
+&lt;h1&gt;解決無法更新網誌問題&lt;/h1&gt;
+&lt;p&gt;解決41123241無法上傳個人網誌到小組上問題 其因版本不同 無法擷取最新資訊 所以將41123241子模組移除重新加入即可解決&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>W10</title><link href="./40971219_2024-Spring-40971219-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-11T14:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-04-11:./40971219_2024-Spring-40971219-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;協同產品設計實習課程任務&lt;/p&gt;
+
+
+&lt;h1&gt;過程影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/AY_S5TfRsOc?si=mDYvj_NxIQEAV4e7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;任務一 建立學員的倉儲、網站與分組連結&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://40971219.github.io/cd2024/content/Brython.html"&gt;2b學員資料&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;任務二 鋼球平衡台 PID 控制與模擬&lt;/h1&gt;
+&lt;h2&gt;論文一:Construction and theoretical study&lt;/h2&gt;
+&lt;p&gt;本文研究了球體平衡平台的構造和理論研究，探討了使用自動控制理論穩定動態系統時存在的限制。&lt;/p&gt;
+&lt;p&gt;主要内容：
+ - 系統概述： 作者設計並搭建了一個球體平衡平台，使用電阻式觸摸面板檢測球體位置，使用 Arduino 微控制器處理數據并控制伺服電機，通過調整平台傾斜角度來保持球體平衡。
+ - 數學模型： 作者利用牛頓力學建立了球體平台系統的數學模型，考慮了球體的平移和旋轉運動，并通過線性化得到了適用於控制器設計的線性模型。
+ - 控制策略： 作者采用了 PID 控制器來控制平台傾斜角度，并通過 Matlab 仿真驗證了控制器的性能。
+實作與結果： 作者將 PID 控制器實現在 Arduino 上，并通過實驗測試了球體平衡平台的性能。結果表明，該系統能够在一定程度上穩定球體，但存在靜態誤差，且無法精確地將球體定位在平台中心。&lt;/p&gt;
+&lt;p&gt;總結：
+該研究展示了球體平衡平台作為一個動態系統在控制理論教育和研究中的價值。儘管存在一些限制，但该系統仍然能够有效地演示控制理論概念，并為學生提供動手實踐的機會。作者提出的改進方案可以進一步提高系統的性能，使其更加適用於更廣泛的應用。&lt;/p&gt;
+&lt;h2&gt;論文二:A real time control system for balancing a ball on a platform with FPGA parallel implementation&lt;/h2&gt;
+&lt;p&gt;這篇論文提出了一個利用 PID 控制器和 FPGA 平行計算來提高球體平衡平台控制系統性能的新方案。&lt;/p&gt;
+&lt;p&gt;主要内容：
+- 問題陳述： 作者強調了在當今自動化需求下，開發高效的實時控制系統的重要性，特別是針對具有多個參數的複雜對象。 FPGA 因其高計算能力、可重構性和真正的并行計算能力，成為了實現此類控制系統的理想平台。
+- 數學模型： 作者利用拉格朗日方程建立了球體在平台上運動的數學模型，并通过简化假设和拉普拉斯變換得到了系統的傳遞函數。
+- PID 控制器設計： 作者選擇了 PID 控制器來穩定球體的位置，并通過 Matlab Simulink 仿真驗證了控制器的有效性。
+- FPGA 實現： 作者將 PID 控制算法分解為基本的算術運算，并設計了 FPGA 上的并行計算單元，以提高控制系统的速度和效率。
+實驗結果： 實驗結果證明，FPGA 實現的并行 PID 控制器能够有效地提高控制精度，并實現了對球體位置的實時控制。&lt;/p&gt;
+&lt;p&gt;總結：
+該論文提供了一個利用 FPGA 平行計算技術提高球體平衡平台控制系統性能的新方案。實驗結果證明了該方法的有效性，并展示了其在實時控制應用中的潛力。該方案可以應用於其他具有多個控制參數的高速對象，并为开发更高效的控制系統提供了新的思路。&lt;/p&gt;
+&lt;h2&gt;論文三:Design and Implementation a Ball Balancing System for Control Theory Course&lt;/h2&gt;
+&lt;p&gt;這篇文章介紹了一種設計並實現低成本球體平衡系統的項目，該系統旨在作為控制理論課程的教學工具。&lt;/p&gt;
+&lt;p&gt;主要内容：
+- 系統設計與原型： 作者探索了三種不同的原型設計，比較了它們的合理性和成本效益，最终選擇了一個由木頭製成的平衡、堅固且便攜的模型。
+- 控制算法： 該系統使用 Arduino 微控制器、超音波距離感測器和伺服電機來保持球體在平台上的平衡。主要控制算法是 PID 控制，通過調整平台的角度來最小化球體的實際位置與目標位置之間的誤差。
+- 自適應 PID 控制： 作者討論了自適應 PID 控制的概念，並鼓勵學生在微控制器編程中應用該方法，根據實時控制情況動態調整控制參數。
+- MATLAB 數據採集： 作者設計了一個介面程序，用於在 MATLAB 中繪製球體的實時位置曲線，讓學生熟悉 MATLAB 編程和其在機電系統中的應用。
+- 實驗結果： 實驗結果表明，該系統能够有效地平衡球體，並减少誤差。然而，由於球體重量輕、摩擦力不足以及參數調整問題，系統仍然存在一些抖動，需要進一步改進。&lt;/p&gt;
+&lt;p&gt;總結：
+該項目成功地開發了一個低成本的球體平衡系統，并将其應用於控制理論教學。該系統幫助學生理解閉環控制、回饋系統和 PID 算法等重要概念，并提高了他們的編程能力。作者也展望了未來的工作，例如通過改進硬體和軟件來提高系統的性能和穩定性。&lt;/p&gt;
+&lt;h2&gt;論文四:Simulation_and_Experimental_Study_of_Ball_Position&lt;/h2&gt;
+&lt;p&gt;本文探討雙軸平台上球體位置控制的模擬與實驗研究，並使用狀態空間方法進行分析。&lt;/p&gt;
+&lt;p&gt;主要內容：
+- 球體平台模型建立： 作者利用牛頓第二定律推導出球體平台系統的數學模型，考慮了球體的平移和旋轉慣性，並忽略了摩擦力。
+- 直流電機控制： 平台傾斜角度由標準位置迴路控制的直流電機控制。作者使用 PI 控制器進行角度控制，並通過模擬和實驗驗證了控制器的性能。
+- 三種控制結構比較： 作者設計並比較了三種控制結構來實現球體位置穩定和軌跡跟踪：
+  - PD 控制器： 簡單且有效的控制方法，但存在穩態誤差。
+  - 狀態空間回饋： 利用系統狀態變數（球體位置和速度）進行控制，可以消除穩態誤差。
+  - 帶狀態空間回饋的狀態空間觀測器： 通過觀測器估計球體速度，避免了直接微分帶來的噪聲放大問題，同時保持了狀態空間回饋的優點。
+實驗結果： 實驗結果表明，所有三種方法都能夠穩定球體的位置，但帶狀態空間回饋的狀態空間觀測器在跟踪性能方面表現最佳。&lt;/p&gt;
+&lt;p&gt;總結：
+本文提供了一個關於球體平台控制系統設計的全面研究，涵蓋了建模、控制設計、模擬和實驗驗證。作者提出的方法和實驗結果為開發更複雜的平衡控制系統提供了重要的參考。&lt;/p&gt;
+&lt;h2&gt;論文五:Ball_on_the_plate_balancing_control_system&lt;/h2&gt;
+&lt;p&gt;這篇文章介紹了一個用於平衡球體的雙自由度平台的機械設計和控制演算法。該系統使用步進電機和電阻式觸摸屏，并通過微控制器實現了雙迴路控制系統，以維持球體在平台中心的穩定位置。&lt;/p&gt;
+&lt;p&gt;主要内容：
+- 背景介紹： 文章首先討論了平衡問題在控制系統中的重要性，并列舉了平衡技術的廣泛應用，例如攝影、導航、運輸工具控制以及機器人等。
+- 系統設計： 作者詳細描述了實驗平台的機械設計，包括木質底座、支撐塔、有機玻璃板、電阻式觸摸屏、步進電機、位置傳感器、控制板和電源等部件。
+- 控制系統： 該系統採用了雙迴路下屬自動控制系統，其中外迴路負責控制球體的位置（使用電阻式觸摸屏獲取數據），內迴路負責控制平台的位置（使用電機位置傳感器獲取數據）。兩種迴路都使用了 PID 控制器來實現精確控制。
+實驗結果： 實驗結果表明，該系統能夠有效地將球體維持在電阻式觸摸屏的中心點，并能够在受到外部干擾時将其返回中心位置。系統的階躍響應穩定時間約為 3 秒。&lt;/p&gt;
+&lt;p&gt;總結：
+該研究成功地設計并實現了一個球體平衡平台，為平衡控制技術的研究和教學提供了新的方案。其主要優點在于使用了步進電機和電阻式觸摸屏，避免了傳統方案中使用伺服電機和外部計算機的需求，使得系統更加緊湊和易於使用。該研究成果可以應用於更廣泛的平衡控制領域，并具有重要的實踐價值。&lt;/p&gt;
+&lt;h2&gt;論文六:2D Ball Balancer Control using QUARC&lt;/h2&gt;
+&lt;p&gt;這篇教學手冊提供了一個在 Quanser 2D 球體平衡平台上設計和實作位置控制系統的實驗指南。實驗使用了 QUARC 軟體和 PID 控制技術，旨在説明學生學習和理解控制理論中的重要概念。&lt;/p&gt;
+&lt;p&gt;主要內容：
+- 模型建立： 首先，手冊指導學生從第一原理推導球體平台系統的非線性運動方程式，并通过线性化得到系統的傳遞函數。
+- 級聯控制設計： 实验采用了級聯控制結構，包括內環和外環控制：
+  - 內環控制： 使用比例-速度 (PV) 控制器來控制伺服電機軸的位置，以滿足特定的時間響應要求。
+  - 外環控制： 使用比例-積分-微分 (PID) 控制器來控制球體在平台上的位置，并通過極點配置方法計算控制器參數以滿足指定的性能指標。
+- 控制技術： 手冊探討了設定點權重和積分器抗飽和等控制技術，以改善系統的性能和穩定性。
+- 模擬： 使用 Simulink 模型對閉環系統進行模擬，以驗證控制器設計和性能指標是否滿足要求。
+- 實作： 將設計好的控制器在 Quanser 2D 球體平衡平台上進行實作，并使用 QUARC 軟體進行數據採集和分析。
+- 實驗步驟： 手冊提供了詳細的實驗步驟，包括 PD 控制和 PID 控制的模擬和實作，以及階躍響應、斜坡響應和正弦響應測試。
+- 結果分析： 學生需要分析實驗結果，并与理論預期進行比較，以評估控制系統的性能和效果。&lt;/p&gt;
+&lt;p&gt;總結：
+這篇教學手冊提供了一個全面且實用的實驗指南，涵蓋了球體平衡平台控制系統設計和實作的各个方面。它为學生提供了一個學習和理解控制理論概念的平台，并培養了他們的實踐能力和解决問題的能力。&lt;/p&gt;
+&lt;h2&gt;利用 Python 模組將系統控制過程, 鋼球在平衡台上的 x 方向座標與 y 方向, 並利用 matplotlib 畫出來&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;1.開啟可攜程式系統中的 CoppeliaSim&lt;/li&gt;
+&lt;li&gt;2.開啟鋼球平衡台模擬場景&lt;/li&gt;
+&lt;li&gt;3.啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib&lt;/li&gt;
+&lt;li&gt;4.在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬&lt;/li&gt;
+&lt;li&gt;5.matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://github.com/40971219/cd2024/blob/19a9aaf16e6cae36f471cde71dd73d274f176950/images/2d_ball_platform_balancing.png"&gt;x y 座標圖&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;任務三 鋼球平衡台零組件繪圖&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/40971219_nfu_edu_tw/Elb2dvg_XwpLm0UUru-c0VEBmBhAM4H9Qeyaz6Y0S51VyA"&gt;檔案連結&lt;/a&gt;&lt;/p&gt;</content><category term="w10"></category><category term="Task"></category></entry></feed>
