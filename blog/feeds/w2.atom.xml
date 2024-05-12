@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:38:45+08:00</updated><entry><title>課程w2</title><link href="./40923149_2024-Spring-40923149w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T12:00:00+08:00</published><updated>2024-05-12T16:38:43+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-07:./40923149_2024-Spring-40923149w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w2</title><link href="./" rel="alternate"></link><link href="./feeds/w2.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:50:29+08:00</updated><entry><title>課程w2</title><link href="./40923149_2024-Spring-40923149w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T12:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-07:./40923149_2024-Spring-40923149w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
 w2建立分組倉儲，加入第6組團隊&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.
 w2建立分組倉儲，加入第6組團隊&lt;/p&gt;
@@ -9,47 +9,47 @@ w2建立分組倉儲，加入第6組團隊&lt;/p&gt;
 &lt;p&gt;建立分組倉儲&lt;/p&gt;
 &lt;p&gt;在倉儲新增個人子模組&lt;/p&gt;
 &lt;p&gt;學習使用codespaces維護分組網站&lt;/p&gt;
-&lt;p&gt;遇到的問題:在整合分組倉儲時，遇到無法合併，問了老師，老師的解決辦法是在指令區打一行指令給予他作動，才能加到分組倉儲&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./40923150_2024-Spring-w2-blog.html" rel="alternate"></link><published>2024-03-04T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-04:./40923150_2024-Spring-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程紀錄.&lt;/p&gt;
+&lt;p&gt;遇到的問題:在整合分組倉儲時，遇到無法合併，問了老師，老師的解決辦法是在指令區打一行指令給予他作動，才能加到分組倉儲&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./40923150_2024-Spring-w2-blog.html" rel="alternate"></link><published>2024-03-04T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-04:./40923150_2024-Spring-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程紀錄.&lt;/p&gt;
 
 
 &lt;h1&gt;W2&lt;/h1&gt;
 &lt;p&gt;1.設定github雙重認證&lt;/p&gt;
-&lt;p&gt;2.REPLIT與GITHUB連結&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./40923152_2024-Spring-w2-blog.html" rel="alternate"></link><published>2024-03-03T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40923152</name></author><id>tag:None,2024-03-03:./40923152_2024-Spring-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
+&lt;p&gt;2.REPLIT與GITHUB連結&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W2</title><link href="./40923152_2024-Spring-w2-blog.html" rel="alternate"></link><published>2024-03-03T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923152</name></author><id>tag:None,2024-03-03:./40923152_2024-Spring-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;WEEK2&lt;/h1&gt;
 &lt;p&gt;一.在分組倉儲中新增個人子模組&lt;/p&gt;
-&lt;p&gt;二.使用codespaces維護分組網站&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>W2 子模組</title><link href="./40971219_2024-Spring-40971219-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-29:./40971219_2024-Spring-40971219-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
+&lt;p&gt;二.使用codespaces維護分組網站&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>W2 子模組</title><link href="./40971219_2024-Spring-40971219-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T14:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-02-29:./40971219_2024-Spring-40971219-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程分組配置&lt;/p&gt;
 
 
 &lt;h1&gt;w2 分組與子模組&lt;/h1&gt;
 &lt;p&gt;每8人為一組，組長建立分組倉儲，組員以子模組加入分組倉儲&lt;/p&gt;
 &lt;h2&gt;分組倉儲維護&lt;/h2&gt;
-&lt;p&gt;利用github上的codespaces對倉儲進行維護&lt;/p&gt;</content><category term="w2"></category><category term="子模組"></category></entry><entry><title>41123243-w2-2024 Spring 課程 第二週 週記</title><link href="./41123243_41123243-w2-blog.html" rel="alternate"></link><published>2024-02-29T13:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123243_41123243-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+&lt;p&gt;利用github上的codespaces對倉儲進行維護&lt;/p&gt;</content><category term="w2"></category><category term="子模組"></category></entry><entry><title>41123243-w2-2024 Spring 課程 第二週 週記</title><link href="./41123243_41123243-w2-blog.html" rel="alternate"></link><published>2024-02-29T13:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123243_41123243-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;第二週執行事項&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;進行分組 並在github加入組別&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123249-w2 2024 Spring 課程網誌</title><link href="./41123249_41123249-w2-blog.html" rel="alternate"></link><published>2024-02-29T13:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123249_41123249-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123249-w2 2024 Spring 課程網誌</title><link href="./41123249_41123249-w2-blog.html" rel="alternate"></link><published>2024-02-29T13:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-29:./41123249_41123249-w2-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;第二週事項&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;進行小組分組 並在github加入組別9&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123251-w2-2024 Spring 課程 第二週 週記</title><link href="./41123251_41123251-w2-blog.html" rel="alternate"></link><published>2024-02-29T13:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>41123251</name></author><id>tag:None,2024-02-29:./41123251_41123251-w2-blog.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第二週，進行分組&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123251-w2-2024 Spring 課程 第二週 週記</title><link href="./41123251_41123251-w2-blog.html" rel="alternate"></link><published>2024-02-29T13:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>41123251</name></author><id>tag:None,2024-02-29:./41123251_41123251-w2-blog.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第二週，進行分組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第二週，進行分組&lt;/p&gt;
 
 
 &lt;h1&gt;第二週執行事項&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;進行分組 並在github加入組別&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>40971134_W2建立分組倉儲</title><link href="./40971134_2024-Spring-40971134-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-02-29:./40971134_2024-Spring-40971134-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;W2 小組分組&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>40971134_W2建立分組倉儲</title><link href="./40971134_2024-Spring-40971134-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-02-29:./40971134_2024-Spring-40971134-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;W2 小組分組&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W2 小組分組&lt;/p&gt;
 
 
@@ -66,19 +66,19 @@ w2建立分組倉儲，加入第6組團隊&lt;/p&gt;
 &lt;li&gt;chmod u+x init_replit&lt;/li&gt;
 &lt;li&gt;./init_replit&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;安裝好之後輸入 python3 main.py 就可以開啟動態網頁進行編輯&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>W2</title><link href="./40971220_2024-Spring-40971220-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-02-29:./40971220_2024-Spring-40971220-w2-blog-tutorial.html</id><content type="html">&lt;p&gt;加入小組倉儲並建立子模組&lt;/p&gt;
-</content><category term="w2"></category><category term="建立子模組"></category></entry><entry><title>41123229-w2-2024 Spring 課程 第二週 週記</title><link href="./41123229_w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>41123229</name></author><id>tag:None,2024-02-29:./41123229_w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+&lt;p&gt;安裝好之後輸入 python3 main.py 就可以開啟動態網頁進行編輯&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>W2</title><link href="./40971220_2024-Spring-40971220-w2-blog-tutorial.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-02-29:./40971220_2024-Spring-40971220-w2-blog-tutorial.html</id><content type="html">&lt;p&gt;加入小組倉儲並建立子模組&lt;/p&gt;
+</content><category term="w2"></category><category term="建立子模組"></category></entry><entry><title>41123229-w2-2024 Spring 課程 第二週 週記</title><link href="./41123229_w2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>41123229</name></author><id>tag:None,2024-02-29:./41123229_w2.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;第二週執行事項&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;進行分組 並在github加入組別&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123241-W2 2024 Spring 課程</title><link href="./41123241_41123241-W2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:38:44+08:00</updated><author><name>41123241</name></author><id>tag:None,2024-02-29:./41123241_41123241-W2.html</id><summary type="html">&lt;p&gt;建立小組倉儲 及使用可攜環境&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123241-W2 2024 Spring 課程</title><link href="./41123241_41123241-W2.html" rel="alternate"></link><published>2024-02-29T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>41123241</name></author><id>tag:None,2024-02-29:./41123241_41123241-W2.html</id><summary type="html">&lt;p&gt;建立小組倉儲 及使用可攜環境&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;建立小組倉儲 及使用可攜環境&lt;/p&gt;
 
 
-&lt;h1&gt;建立小組倉儲 及使用可攜環境&lt;/h1&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123250 2024 Spring 課程 第2週 週記</title><link href="./41123250-2024-spring-ke-cheng-di-2zhou-zhou-ji.html" rel="alternate"></link><published>2024-02-22T15:00:00+08:00</published><updated>2024-05-12T16:38:45+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-02-22:./41123250-2024-spring-ke-cheng-di-2zhou-zhou-ji.html</id><summary type="html">&lt;p&gt;進行分組 並加入github的組別&lt;/p&gt;
+&lt;h1&gt;建立小組倉儲 及使用可攜環境&lt;/h1&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>41123250 2024 Spring 課程 第2週 週記</title><link href="./41123250-2024-spring-ke-cheng-di-2zhou-zhou-ji.html" rel="alternate"></link><published>2024-02-22T15:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-02-22:./41123250-2024-spring-ke-cheng-di-2zhou-zhou-ji.html</id><summary type="html">&lt;p&gt;進行分組 並加入github的組別&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;進行分組 並加入github的組別&lt;/p&gt;
 
 
