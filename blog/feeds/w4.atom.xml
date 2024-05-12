@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2a cd2024 評分網誌 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:50:29+08:00</updated><entry><title>W4網誌</title><link href="./40923140_2024-Spring-w4-blog.html" rel="alternate"></link><published>2024-03-21T17:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-03-21:./40923140_2024-Spring-w4-blog.html</id><summary type="html">&lt;p&gt;整合報告&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2b cd2024 評分網誌 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T16:53:08+08:00</updated><entry><title>W4網誌</title><link href="./40923140_2024-Spring-w4-blog.html" rel="alternate"></link><published>2024-03-21T17:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40923140</name></author><id>tag:None,2024-03-21:./40923140_2024-Spring-w4-blog.html</id><summary type="html">&lt;p&gt;整合報告&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;整合報告&lt;/p&gt;
 
 
 &lt;h1&gt;w4&lt;/h1&gt;
-&lt;p&gt;將每人所做的報告從codespaces進行上傳,並整合所有的pdf報告以及修正錯誤&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>課程w4</title><link href="./40923149_2024-Spring-40923149w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T00:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-21:./40923149_2024-Spring-40923149w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;Latex的使用&lt;/p&gt;
+&lt;p&gt;將每人所做的報告從codespaces進行上傳,並整合所有的pdf報告以及修正錯誤&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>課程w4</title><link href="./40923149_2024-Spring-40923149w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T00:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40923149</name></author><id>tag:None,2024-03-21:./40923149_2024-Spring-40923149w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;Latex的使用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;Latex的使用&lt;/p&gt;
 
 
@@ -16,7 +16,7 @@
 我負責的部分是第六章和conclusion
 image_path = "images/螢幕擷取畫面 2024-04-14 021514.png"
 image_path = "images/螢幕擷取畫面 2024-04-14 021538.png"
-心得:第一次使用Latex還不太熟悉，有些指令碼還看不太懂，慢慢學習中&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="Latex"></category></entry><entry><title>2024 Spring 課程W4</title><link href="./40923150_2024-Spring-w4-blog.html" rel="alternate"></link><published>2024-03-17T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-17:./40923150_2024-Spring-w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
+心得:第一次使用Latex還不太熟悉，有些指令碼還看不太懂，慢慢學習中&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="Latex"></category></entry><entry><title>2024 Spring 課程W4</title><link href="./40923150_2024-Spring-w4-blog.html" rel="alternate"></link><published>2024-03-17T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40923150</name></author><id>tag:None,2024-03-17:./40923150_2024-Spring-w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程學習紀錄.&lt;/p&gt;
 
 
@@ -24,17 +24,17 @@ image_path = "images/螢幕擷取畫面 2024-04-14 021538.png"
 &lt;p&gt;1.合作翻譯論文&lt;/p&gt;
 &lt;p&gt;2.使用codespaces維護倉儲內容&lt;/p&gt;
 &lt;p&gt;3.學習使用Github Actions編譯LaTeX得到分組pdf&lt;/p&gt;
-&lt;p&gt;4.在codespaces上傳自己在報告中負責的部分&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W4</title><link href="./40923152_2024-Spring-w4-blog.html" rel="alternate"></link><published>2024-03-17T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40923152</name></author><id>tag:None,2024-03-17:./40923152_2024-Spring-w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
+&lt;p&gt;4.在codespaces上傳自己在報告中負責的部分&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W4</title><link href="./40923152_2024-Spring-w4-blog.html" rel="alternate"></link><published>2024-03-17T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40923152</name></author><id>tag:None,2024-03-17:./40923152_2024-Spring-w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;WEEK4&lt;/h1&gt;
-&lt;p&gt;一.在Replit裡將做好的中翻英論文push到Github的小組倉儲&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123226_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123226_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;一.在Replit裡將做好的中翻英論文push到Github的小組倉儲&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123226_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123226_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;第四週執行事項&lt;/h1&gt;
-&lt;p&gt;負責翻譯區間(73-87)&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123250 2024 Spring 課程 第4週 週記</title><link href="./41123250-2024-spring-ke-cheng-di-4zhou-zhou-ji.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-03-14:./41123250-2024-spring-ke-cheng-di-4zhou-zhou-ji.html</id><summary type="html">&lt;p&gt;成功上傳網誌，在此周進行文檔翻譯&lt;/p&gt;
+&lt;p&gt;負責翻譯區間(73-87)&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123250 2024 Spring 課程 第4週 週記</title><link href="./41123250-2024-spring-ke-cheng-di-4zhou-zhou-ji.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>weizeja</name></author><id>tag:None,2024-03-14:./41123250-2024-spring-ke-cheng-di-4zhou-zhou-ji.html</id><summary type="html">&lt;p&gt;成功上傳網誌，在此周進行文檔翻譯&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;成功上傳網誌，在此周進行文檔翻譯&lt;/p&gt;
 
 
@@ -46,14 +46,14 @@ image_path = "images/螢幕擷取畫面 2024-04-14 021538.png"
 https://webthesis.biblio.polito.it/16429/1/tesi.pdf
 &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;/blockquote&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>W4 latex編譯</title><link href="./40971219_2024-Spring-40971219-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T14:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-14:./40971219_2024-Spring-40971219-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程latex&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>W4 latex編譯</title><link href="./40971219_2024-Spring-40971219-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T14:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40971219</name></author><id>tag:None,2024-03-14:./40971219_2024-Spring-40971219-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;協同產品設計實習課程latex&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;協同產品設計實習課程latex&lt;/p&gt;
 
 
 &lt;h1&gt;w4 latex完成個人部分&lt;/h1&gt;
 &lt;p&gt;完成中翻英報告，個人負責部分為封面至第二章
 &lt;a href="https://nfuedu-my.sharepoint.com/:b:/g/personal/40971219_nfu_edu_tw/ETdXM-eIct9CspTEgrNn6sABA0eVl-wokio6w-_3pCVtCw"&gt;pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/40971219_nfu_edu_tw/EpohzIvI5NRNkiL8xZt2IPUBECRxnm6NKTl9I_8BX5o09Q"&gt;所有檔案&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="latex2"></category></entry><entry><title>41123243-w4-2024 Spring 課程 第四週 週記</title><link href="./41123243_41123243-w4-blog.html" rel="alternate"></link><published>2024-03-14T13:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123243_41123243-w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/40971219_nfu_edu_tw/EpohzIvI5NRNkiL8xZt2IPUBECRxnm6NKTl9I_8BX5o09Q"&gt;所有檔案&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="latex2"></category></entry><entry><title>41123243-w4-2024 Spring 課程 第四週 週記</title><link href="./41123243_41123243-w4-blog.html" rel="alternate"></link><published>2024-03-14T13:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123243_41123243-w4-blog.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
@@ -66,7 +66,7 @@ https://webthesis.biblio.polito.it/16429/1/tesi.pdf
 &lt;p&gt;下為待翻譯文檔 負責61-72
 &lt;a href="https://webthesis.biblio.polito.it/16429/1/tesi.pdf"&gt;待翻譯文檔&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123251-w4-2024 Spring 課程 第四週 週記</title><link href="./41123251_41123251-w4-blog.html" rel="alternate"></link><published>2024-03-14T13:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>41123251</name></author><id>tag:None,2024-03-14:./41123251_41123251-w4-blog.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第四週，進行文檔翻譯及編輯網誌&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123251-w4-2024 Spring 課程 第四週 週記</title><link href="./41123251_41123251-w4-blog.html" rel="alternate"></link><published>2024-03-14T13:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>41123251</name></author><id>tag:None,2024-03-14:./41123251_41123251-w4-blog.html</id><summary type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第四週，進行文檔翻譯及編輯網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理與協同產品設計實習課程 第四週，進行文檔翻譯及編輯網誌&lt;/p&gt;
 
 
@@ -79,7 +79,7 @@ https://webthesis.biblio.polito.it/16429/1/tesi.pdf
 &lt;p&gt;下為待翻譯文檔 負責61-72
 &lt;a href="https://webthesis.biblio.polito.it/16429/1/tesi.pdf"&gt;待翻譯文檔&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>40971134_W4使用LaTeX翻譯</title><link href="./40971134_2024-Spring-40971134-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-14:./40971134_2024-Spring-40971134-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;W4 LaTeX中翻英報告&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>40971134_W4使用LaTeX翻譯</title><link href="./40971134_2024-Spring-40971134-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40971134</name></author><id>tag:None,2024-03-14:./40971134_2024-Spring-40971134-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;W4 LaTeX中翻英報告&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4 LaTeX中翻英報告&lt;/p&gt;
 
 
@@ -88,20 +88,20 @@ https://webthesis.biblio.polito.it/16429/1/tesi.pdf
 &lt;p&gt;學習使用Github Actions編譯LaTeX得到分組pdf報告&lt;/p&gt;
 &lt;p&gt;在codespaces上傳自己在報告中負責的部分&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;在分組報告中我負責的部分是第三章及第四章&lt;a href="https://github.com/40971134/cd2024/blob/main/latex/001.pdf"&gt;pdf&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>W4</title><link href="./40971220_2024-Spring-40971220-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-14:./40971220_2024-Spring-40971220-w4-blog-tutorial.html</id><content type="html">&lt;p&gt;使用Latex來與小組成員協同翻譯英文報告。負責段落:第五章&lt;/p&gt;
-</content><category term="w4"></category><category term="使用Latex翻譯"></category></entry><entry><title>41123229-w4-2024 Spring 課程 第四週 週記</title><link href="./41123229_w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>41123229</name></author><id>tag:None,2024-03-14:./41123229_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
+&lt;p&gt;在分組報告中我負責的部分是第三章及第四章&lt;a href="https://github.com/40971134/cd2024/blob/main/latex/001.pdf"&gt;pdf&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>W4</title><link href="./40971220_2024-Spring-40971220-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>40971220</name></author><id>tag:None,2024-03-14:./40971220_2024-Spring-40971220-w4-blog-tutorial.html</id><content type="html">&lt;p&gt;使用Latex來與小組成員協同翻譯英文報告。負責段落:第五章&lt;/p&gt;
+</content><category term="w4"></category><category term="使用Latex翻譯"></category></entry><entry><title>41123229-w4-2024 Spring 課程 第四週 週記</title><link href="./41123229_w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>41123229</name></author><id>tag:None,2024-03-14:./41123229_w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程&lt;/p&gt;
 
 
 &lt;h1&gt;第四週執行事項&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;首次成功將網誌導入網站，將再此週進行文檔翻譯&lt;/li&gt;
-&lt;/ul&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123241-W4 2024 Spring 課程</title><link href="./41123241_41123241-W4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>41123241</name></author><id>tag:None,2024-03-14:./41123241_41123241-W4.html</id><summary type="html">&lt;p&gt;翻譯文件&lt;/p&gt;
+&lt;/ul&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123241-W4 2024 Spring 課程</title><link href="./41123241_41123241-W4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>41123241</name></author><id>tag:None,2024-03-14:./41123241_41123241-W4.html</id><summary type="html">&lt;p&gt;翻譯文件&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;翻譯文件&lt;/p&gt;
 
 
 &lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;在小組內分配頁數的文件進行翻譯&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123249-w4 2024 Spring 課程網誌</title><link href="./41123249_41123249-w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:50:29+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123249_41123249-w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;在小組內分配頁數的文件進行翻譯&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>41123249-w4 2024 Spring 課程網誌</title><link href="./41123249_41123249-w4.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-12T16:53:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./41123249_41123249-w4.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

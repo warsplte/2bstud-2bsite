@@ -5,8 +5,8 @@
 from __future__ import unicode_literals
 # 確保在 Python 2 和 3 中使用 unicode 字串
 
-AUTHOR = 'cd2024_2a'  # 設定作者姓名
-SITENAME = '2a cd2024 評分網誌'  # 設定網站名稱
+AUTHOR = 'cd2024_2b'  # 設定作者姓名
+SITENAME = '2b cd2024 評分網誌'  # 設定網站名稱
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False  # 設定不使用資料夾名稱作為文章類別
 
