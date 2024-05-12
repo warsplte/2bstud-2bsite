@@ -1,6 +1,3 @@
-[submodule "g8"]
-	path = g8
-	url = https://github.com/mdecd2024/2b-midbg8
 [submodule "g9"]
 	path = g9
 	url = https://github.com/mdecd2024/2b-midbg9
